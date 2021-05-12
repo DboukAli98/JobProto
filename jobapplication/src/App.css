@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+* {
+  font-family: 'Sora', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.search-input {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: -moz-use-text-color -moz-use-text-color #ef8e80;
+  border-image: none;
+  border-style:solid;
+  border-width: 1px 1px 1px;
+  color:ivory;
+  cursor:text;
+  font-family: Gotham-Book;
+  font-size: 18px;
+  min-width: 250px;
+  min-height: 30px;
+  margin: 60px;
+  padding: 10px;
+  background-color:darkgray;
+  text-align: center;
+  
+
+}
+.input-box{
+  text-align: center;
+}
+p{
+  padding: 30px;
+  font-size: 60px;
+}
+
+h1{
+  font-size: 60px;
+  
+}
+h4{
+  font-size:32px;
+}
+
+h5{
+  font-size:26px;
+}
+h6{
+
+  font-size:22px;
+
+}
+
+h7{
+  font-size:18px;
+}
+.card{
+  margin:60px;
+  
+}
+
+
+
+.app-btn{
+  display: inline;
+  padding:800px;
+  text-align: center;
+}
+
+.card{
+  border-style:inherit;
+  border-color:lightblue;
+  border-width: 7px;
+  margin: 20px;
+}
+
+
+
+
